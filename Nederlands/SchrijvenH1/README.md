@@ -17,17 +17,11 @@ Alleen reizen kan dus erg leuk zijn als je goed kan improviseren en een beetje s
 
 # Feedback
 
-- In de eerste alinea trekt de schrijver de aandacht van de lezer (actualiteit, geschiedenis, voorbeeld of persoonlijk belang).
-<br>&nbsp;&nbsp;&starf;&starf;&starf;&star;
-- De tweede alinea introduceert het onderwerp door de formulering van een standpunt
-<br>&nbsp;&nbsp;&starf;&starf;&starf;&starf;
-- In de slotalinea wordt het standpunt herhaald.
-<br>&nbsp;&nbsp;&starf;&starf;&star;&star;
-- In de slotalinea staat een aanbeveling.
-<br>&nbsp;&nbsp;&starf;&starf;&star;&star;
-- De slotalinea bevat minimaal één signaalwoord dat bij eenconclusie past.
-<br>&nbsp;&nbsp;&starf;&star;&star;&star;
-- De slotalinea sluit af met een uitsmijter.
-<br>&nbsp;&nbsp;&starf;&starf;&starf;&star;
-- De woorden in de inleiding en het slot zijn foutloos gespeld.
-<br>&nbsp;&nbsp;&starf;&starf;&star;&star;
+- &starf;&starf;&starf;&star;&nbsp;&nbsp;In de eerste alinea trekt de schrijver de aandacht van de lezer (actualiteit, geschiedenis, voorbeeld of persoonlijk belang).
+- &starf;&starf;&starf;&starf;&nbsp;&nbsp;De tweede alinea introduceert het onderwerp door de formulering van een standpunt
+- &starf;&starf;&star;&star;&nbsp;&nbsp;In de slotalinea wordt het standpunt herhaald.
+
+- &starf;&starf;&star;&star;&nbsp;&nbsp;In de slotalinea staat een aanbeveling.
+- &starf;&star;&star;&star;&nbsp;&nbsp;De slotalinea bevat minimaal één signaalwoord dat bij eenconclusie past.
+- &starf;&starf;&starf;&star;&nbsp;&nbsp;De slotalinea sluit af met een uitsmijter.
+- &starf;&starf;&star;&star;&nbsp;&nbsp;De woorden in de inleiding en het slot zijn foutloos gespeld.
